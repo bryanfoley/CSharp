@@ -1,2 +1,2 @@
-# Cpp
-This repo contains code examples in C++
+# CSharp
+This repo contains code examples in CSharp
